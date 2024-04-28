@@ -4,7 +4,7 @@ build:
 cards:
   message: "Hey,Welcome to MyBank cards related Prod APIs"
   contactDetails:
-    name: "naresh prod-developer"
+    name: "naresh production-developer"
     email: "{cipher}01098b30d6da2f7372745da27275515224db02d314fc381d1295453e86a6d3f263dc55342550656e0ca06de302eaefe4"
   onCallSupport:
     - (666) 265-3765
